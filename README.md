@@ -8,7 +8,7 @@ Aplicativo web desenvolvido em **React + TypeScript + Vite** que exibe preços e
 
 O projeto foi desenvolvido durante o curso **O Sujeito Programador**, com foco em boas práticas, componentização e consumo de APIs.
 
-🔗 **Acesse o projeto online:** [https://dev-currency.vercel.app](https://dev-currency.vercel.app)
+🔗 **Acesse o projeto online:** [https://dev-currency.vercel.app](cryptocurrency-app-psi.vercel.app)
 
 ---
 
